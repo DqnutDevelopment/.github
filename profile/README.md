@@ -6,7 +6,6 @@
 - ...
 
 ## Getting in touch:
-- **Website:** https://www.idqnutlikeit.dev  
+- **Website:** https://www.idqnutlikeit.dev
+- **Email:** info@idqnutlikeit.dev  
 - **Discord:** https://discord.gg/3SrBdVtnDG
-
-<!--
